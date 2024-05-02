@@ -22,7 +22,7 @@ body {
     text-align: center;
     justify-content: center;
     background-image: url("image.jpg");
-    animation: change 10s infinite ease-in-out;
+    animation: change 15s infinite ease-in-out;
 
 }
 
